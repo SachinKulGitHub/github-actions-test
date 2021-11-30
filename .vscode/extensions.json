@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "redhat.vscode-yaml",
+        "ahebrank.yaml2json"
+    ]
+}
