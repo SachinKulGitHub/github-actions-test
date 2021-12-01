@@ -5,7 +5,23 @@ active: true
 key:
     key: value
     key1: sach
-    key2: 33
+    key2: 33ss
     key3:
         key: value
-        kay4: 66
+        kay4: 664
+jsonObject: { key: value, key2: balu, key3: {key: value, key2: 33}}
+array: 
+    - item1
+    - item2
+    - {key: value}
+jsonArray: [item1, item2]
+objectArray:
+    - key: value
+      key2: 34e
+    - key2: value3
+      key3: 76
+longtext: |
+    aaaaaaa gggggg kkkkk
+    uuuuulll
+    jjjhhgffbvfg
+    uuuiik
