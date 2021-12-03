@@ -4,6 +4,8 @@ on:
   #schedule: 
     #- cron: "0/10 * * * *"
   push:
+    branches:
+      - master
   pull_request:
     types: [opened, closed, assigned, reopened]
 
